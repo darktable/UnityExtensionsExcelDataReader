@@ -1,12 +1,13 @@
 {
   "name": "com.yuyang.unity-extensions.excel-data-reader",
   "displayName": "Unity Extensions Excel Data Reader",
-  "description": "Lightweight and fast library written in C# for reading Microsoft Excel files. Github: https://github.com/ExcelDataReader/ExcelDataReader",
+  "description": "Lightweight and fast library written in C# for reading Microsoft Excel files.",
   "version": "0.0.1",
   "keywords": [
     "extensions",
     "excel"
   ],
   "type": "library",
-  "unity": "2019.3"
+  "unity": "2019.3",
+  "unityRelease": "0b8"
 }

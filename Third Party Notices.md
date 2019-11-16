@@ -4,4 +4,4 @@ Component Name: ExcelDataReader
 
 License Type: "MIT"
 
-[ExcelDataReader License](https://github.com/yuyang9119/UnityExtensionsExcelDataReader/blob/master/LICENSE)
+[ExcelDataReader License](https://github.com/yuyang9119/UnityExtensionsExcelDataReader/blob/master/LICENSE.md)
